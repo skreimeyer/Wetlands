@@ -1,0 +1,1 @@
+pandoc summary.md -fmarkdown-implicit_figures -o summary.pdf
